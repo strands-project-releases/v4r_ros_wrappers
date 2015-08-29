@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>classifier_srv_definitions</name>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <description>The classifier_srv_definitions package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
@@ -47,6 +47,7 @@
   <run_depend>std_msgs</run_depend>
   <run_depend>geometry_msgs</run_depend>
   <run_depend>object_perception_msgs</run_depend>
+  <run_depend>message_runtime</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
