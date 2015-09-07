@@ -2,6 +2,9 @@
 Changelog for package multiview_object_recognizer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2015-09-07)
+------------------
+
 0.0.4 (2015-08-29)
 ------------------
 * fixed string formatting bug
