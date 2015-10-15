@@ -1,0 +1,33 @@
+ros-indigo-segmentation (0.0.6-5trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 15 Oct 2015 00:00:00 -0000
+
+ros-indigo-segmentation (0.0.5-5trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 07 Sep 2015 00:00:00 -0000
+
+ros-indigo-segmentation (0.0.4-5trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-segmentation (0.0.3-5trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-segmentation (0.0.1-5trusty) trusty; urgency=high
+
+  * added V4R ass dependency where needed and changed maintainers to STRANDS people
+  * included pcl segmenter
+  * Contributors: Marc Hanheide, Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+
