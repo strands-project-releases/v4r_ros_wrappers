@@ -1,0 +1,38 @@
+ros-indigo-recognition-srv-definitions (0.0.6-1trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 15 Oct 2015 00:00:00 -0000
+
+ros-indigo-recognition-srv-definitions (0.0.5-1trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 07 Sep 2015 00:00:00 -0000
+
+ros-indigo-recognition-srv-definitions (0.0.4-1trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-recognition-srv-definitions (0.0.3-1trusty) trusty; urgency=high
+
+  * added message_runtime and missing message generation
+  * Contributors: Marc Hanheide
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-recognition-srv-definitions (0.0.1-1trusty) trusty; urgency=high
+
+  * added V4R ass dependency where needed and changed maintainers to STRANDS people
+  * fixed camera tracker, single- and multi-view recognition with new V4R
+    added some ReadMe
+    still need to check classification
+  * deleted tmp commits
+  * initial commit
+  * Contributors: Marc Hanheide, Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+
