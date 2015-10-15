@@ -1,0 +1,34 @@
+ros-indigo-camera-srv-definitions (0.0.6-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 15 Oct 2015 00:00:00 -0000
+
+ros-indigo-camera-srv-definitions (0.0.5-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 07 Sep 2015 00:00:00 -0000
+
+ros-indigo-camera-srv-definitions (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-camera-srv-definitions (0.0.3-0trusty) trusty; urgency=high
+
+  * added message_runtime and missing message generation
+  * Contributors: Marc Hanheide
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-camera-srv-definitions (0.0.1-0trusty) trusty; urgency=high
+
+  * added V4R ass dependency where needed and changed maintainers to STRANDS people
+  * added camera_tracker_srv_definitions
+  * Contributors: Marc Hanheide, Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+
