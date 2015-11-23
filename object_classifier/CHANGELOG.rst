@@ -2,6 +2,20 @@
 Changelog for package object_classifier
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.7 (2015-11-23)
+------------------
+* Update package.xml
+* updated ReadMes
+  removed unused files
+  updated some launch files, created segement_and_classify package
+* added object classifer again (compiles but crashes - will be fixed soon)
+  wrote launch file for segmentation + classification
+* updated namespace
+* merged
+* using deprecated pcl addcoordinatesystem function again as otherwise jenkins complains
+* change namespace according to v4r
+* Contributors: Marc Hanheide, Thomas Fäulhammer
+
 0.0.5 (2015-09-07)
 ------------------
 
