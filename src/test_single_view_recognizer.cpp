@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: Feb 20, 2014
- *      Author: Thomas Fäulhammer
+ *      Author: Thomas Faeulhammer
  */
 
 #include <pcl/common/common.h>
@@ -118,6 +118,7 @@ public:
                 return false;
             }
         }
+        return true;
     }
 
     bool initialize(int argc, char ** argv)
@@ -156,7 +157,7 @@ public:
         }
         else //input_method==1
         {
-            if(n_->getParam ( "directory", directory_ ) && directory_.length())
+            if(n_->getParam ( " ", directory_ ) && directory_.length())
             {
                 callSvRecognizerUsingFiles();
             }
