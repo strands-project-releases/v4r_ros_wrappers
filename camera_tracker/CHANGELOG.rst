@@ -2,6 +2,9 @@
 Changelog for package camera_tracker
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.8 (2015-11-24)
+------------------
+
 0.0.7 (2015-11-23)
 ------------------
 * fix headers and some warnings
