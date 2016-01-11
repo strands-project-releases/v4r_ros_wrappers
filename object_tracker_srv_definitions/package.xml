@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>recognition_srv_definitions</name>
+  <name>object_tracker_srv_definitions</name>
   <version>0.0.11</version>
-  <description>The recognition_srv_definitions package</description>
+  <description>The object_tracker_srv_definitions package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
@@ -38,17 +38,16 @@
   <!-- Use test_depend for packages you need only for testing: -->
   <!--   <test_depend>gtest</test_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
   <build_depend>sensor_msgs</build_depend>
   <build_depend>std_msgs</build_depend>
   <build_depend>geometry_msgs</build_depend>
-  <build_depend>object_perception_msgs</build_depend>
-  <build_depend>message_generation</build_depend>
-  
   <run_depend>sensor_msgs</run_depend>
   <run_depend>std_msgs</run_depend>
   <run_depend>geometry_msgs</run_depend>
-  <run_depend>object_perception_msgs</run_depend>
   <run_depend>message_runtime</run_depend>
+  
+
 
 
   <!-- The export tag contains other, unspecified, tags -->
