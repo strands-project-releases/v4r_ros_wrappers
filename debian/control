@@ -1,0 +1,12 @@
+Source: ros-indigo-v4r-ros-wrappers
+Section: misc
+Priority: extra
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-v4r-ros-wrappers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-camera-srv-definitions, ros-indigo-camera-tracker, ros-indigo-classifier-srv-definitions, ros-indigo-multiview-object-recognizer, ros-indigo-object-classifier, ros-indigo-object-perception-msgs, ros-indigo-recognition-srv-definitions, ros-indigo-segment-and-classify, ros-indigo-segmentation, ros-indigo-segmentation-srv-definitions, ros-indigo-singleview-object-recognizer
+Description: The v4r_ros_wrappers package
