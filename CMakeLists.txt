@@ -17,8 +17,6 @@ catkin_package(
 ## Build ##
 ###########
 
-add_definitions(-std=c++0x)
-
 ## Specify additional locations of header files
 ## Your package locations should be listed before other locations
 include_directories(include
@@ -26,6 +24,8 @@ include_directories(include
   ${catkin_INCLUDE_DIRS}
   ${V4R_INCLUDE_DIRS}
 )
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
 set(incs include/object_tracker.h)
 
