@@ -2,6 +2,9 @@
 Changelog for package singleview_object_recognizer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2016-01-28)
+------------------
+
 0.1.0 (2016-01-27)
 ------------------
 * Merge remote-tracking branch 'strands/master'
