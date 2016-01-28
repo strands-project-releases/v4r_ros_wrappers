@@ -1,0 +1,12 @@
+Source: ros-indigo-object-detection-and-tracking
+Section: misc
+Priority: extra
+Maintainer: Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-cv-bridge, ros-indigo-image-transport, ros-indigo-object-tracker, ros-indigo-object-tracker-srv-definitions, ros-indigo-pcl-conversions, ros-indigo-recognition-srv-definitions, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-singleview-object-recognizer, ros-indigo-v4r
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-object-detection-and-tracking
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cv-bridge, ros-indigo-image-transport, ros-indigo-object-tracker, ros-indigo-object-tracker-srv-definitions, ros-indigo-pcl-conversions, ros-indigo-recognition-srv-definitions, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-sensor-msgs, ros-indigo-singleview-object-recognizer, ros-indigo-v4r
+Description: The object_detection_and_tracking package
