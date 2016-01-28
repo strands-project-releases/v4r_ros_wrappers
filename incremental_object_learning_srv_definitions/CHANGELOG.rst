@@ -2,6 +2,9 @@
 Changelog for package incremental_object_learning_srv_definitions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2016-01-28)
+------------------
+
 0.1.2 (2016-01-28)
 ------------------
 * Merge pull request `#29 <https://github.com/strands-project/v4r_ros_wrappers/issues/29>`_ from strands-project/fix_missing_msg_gen_build_dep
