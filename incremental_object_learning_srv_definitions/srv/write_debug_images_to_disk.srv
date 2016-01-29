@@ -1,4 +1,0 @@
-#output directory of the debug images 
-std_msgs/String path
-bool crop_images
----
