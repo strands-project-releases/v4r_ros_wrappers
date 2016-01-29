@@ -1,0 +1,141 @@
+ros-indigo-multiview-object-recognizer (0.1.4-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Fri, 29 Jan 2016 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.1.3-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 28 Jan 2016 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.1.2-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 28 Jan 2016 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.1.1-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 28 Jan 2016 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.1.0-0trusty) trusty; urgency=high
+
+  * added possibility to write intermediate images to a file
+  * Merge branch 'master' into dynamic_object_learning
+    Conflicts:
+    multiview_object_recognizer/CMakeLists.txt
+    singleview_object_recognizer/CMakeLists.txt
+  * updated cmake for new v4r cmake system
+  * tmp
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Wed, 27 Jan 2016 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.12-0trusty) trusty; urgency=high
+
+  * add c++11 definition
+  * use new parameter parsing option inside V4R library
+  * add OpenCV libs to multi-view cmake file
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Wed, 27 Jan 2016 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.11-0trusty) trusty; urgency=high
+
+  * updated readme and launch files
+  * adapt
+  * adapt_to_new_v4r_interfaces!
+  * use pcl_conversion from ROS package
+    create camera tracker header
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 11 Jan 2016 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.10-0trusty) trusty; urgency=high
+
+  * using packaged version of pcl_conversions.h
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Wed, 25 Nov 2015 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.9-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Tue, 24 Nov 2015 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.8-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Tue, 24 Nov 2015 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.7-0trusty) trusty; urgency=high
+
+  * updated ReadMes
+    removed unused files
+    updated some launch files, created segement_and_classify package
+  * updated namespace
+  * fixed paramter input of doubles
+  * using v4r_config.h to check for SIFTGPU
+  * tmp commit
+  * fix headers and some warnings
+  * change namespace according to v4r
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 23 Nov 2015 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.6-0trusty) trusty; urgency=high
+
+  * fixed namespace and include issues to fit V4R Version 1.0.11
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 15 Oct 2015 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.5-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 07 Sep 2015 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.4-0trusty) trusty; urgency=high
+
+  * fixed string formatting bug
+  * Contributors: Marc Hanheide
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-multiview-object-recognizer (0.0.1-0trusty) trusty; urgency=high
+
+  * added V4R ass dependency where needed and changed maintainers to STRANDS people
+  * Update ReadMe.md
+  * Fixed wrong recognition_structure_dir parameter name
+  * removed deprecated strands_v4r dependency
+  * fixed camera tracker, single- and multi-view recognition with new V4R
+    added some ReadMe
+    still need to check classification
+  * added cam tracker
+  * tmp commit
+  * fixed some linking and namespace issues
+  * tmp
+    Conflicts:
+    dynamic_object_learning/CMakeLists.txt
+    dynamic_object_learning/package.xml
+  * deleted tmp commits
+  * .
+  * initial commit
+  * Contributors: Marc Hanheide, Michael Zillich, Thomas Faeulhammer, Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+
