@@ -1,0 +1,12 @@
+Source: ros-indigo-segmentation-srv-definitions
+Section: misc
+Priority: extra
+Maintainer: Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-message-generation, ros-indigo-sensor-msgs, ros-indigo-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-segmentation-srv-definitions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-message-runtime, ros-indigo-sensor-msgs, ros-indigo-std-msgs
+Description: The segmentation_srv_definitions package
