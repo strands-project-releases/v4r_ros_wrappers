@@ -2,6 +2,9 @@
 Changelog for package singleview_object_recognizer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.4 (2016-01-29)
+------------------
+
 0.1.3 (2016-01-28)
 ------------------
 * remove action server.py from install list
