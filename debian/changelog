@@ -1,0 +1,116 @@
+ros-indigo-camera-tracker (0.1.4-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Fri, 29 Jan 2016 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.1.3-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 28 Jan 2016 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.1.2-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 28 Jan 2016 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.1.1-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 28 Jan 2016 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.1.0-0trusty) trusty; urgency=high
+
+  * added possibility to write intermediate images to a file
+  * up ns
+  * tmp
+  * Contributors: Thomas Faeulhammer, Thomas Fäulhammer, werner-left-cortex
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Wed, 27 Jan 2016 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.12-0trusty) trusty; urgency=high
+
+  * add c++11 definition
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Wed, 27 Jan 2016 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.11-0trusty) trusty; urgency=high
+
+  * added object tracker
+  * adapt
+  * Merge branch 'fix_missing_include'
+  * use pcl_conversion from ROS package
+    create camera tracker header
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 11 Jan 2016 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.10-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Wed, 25 Nov 2015 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.9-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Tue, 24 Nov 2015 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.8-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Tue, 24 Nov 2015 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.7-0trusty) trusty; urgency=high
+
+  * fix headers and some warnings
+  * change namespace according to v4r
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 23 Nov 2015 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.6-0trusty) trusty; urgency=high
+
+  * fixed namespace and include issues to fit V4R Version 1.0.11
+  * Contributors: Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Thu, 15 Oct 2015 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.5-0trusty) trusty; urgency=high
+
+  * reverted last change
+    as it is needed here, it turns out.
+  * Update CMakeLists.txt
+  * Contributors: Marc Hanheide
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Mon, 07 Sep 2015 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+ros-indigo-camera-tracker (0.0.1-0trusty) trusty; urgency=high
+
+  * added V4R ass dependency where needed and changed maintainers to STRANDS people
+  * included pcl segmenter
+  * removed dependency strands v4r
+  * added cam tracker
+  * Contributors: Marc Hanheide, Thomas Faeulhammer, Thomas Fäulhammer
+
+ -- Thomas Faeulhammer <faeulhammer@acin.tuwien.ac.at>  Sat, 29 Aug 2015 00:00:00 -0000
+
+
